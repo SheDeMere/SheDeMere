@@ -31,7 +31,7 @@
 [Код](https://github.com/SheDeMere/Auto-blog) | [Демо](https://shedemere.github.io/Auto-blog/)
 
 - Каталог Телеграмм каналов на React/Redux (на разработке)
-[Код]https://github.com/SheDeMere/telegram-channels-new) 
+[Код](https://github.com/SheDeMere/telegram-channels-new) 
 
 
 
