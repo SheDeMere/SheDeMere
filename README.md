@@ -26,7 +26,6 @@
    
 - ТЗ от Авито на React/React-router
 [Код](https://github.com/SheDeMere/avito) | [Демо](https://vast-wildwood-19897.herokuapp.com/)
-### Features
 
 - Адаптивная вёрстка
 [Код](https://github.com/SheDeMere/Auto-blog) | [Демо](https://shedemere.github.io/Auto-blog/)
