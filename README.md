@@ -20,7 +20,9 @@
 
 ### Мои Работы:
 
-  
+ - Каталог Телеграмм каналов на React/Redux 
+[Код](https://github.com/SheDeMere/telegram-channels-new) | [Демо](https://intocode-project-telegram.herokuapp.com/) 
+
 - Десктопный чат на React/Redux
 [Код](https://github.com/SheDeMere/react-chat) | [Демо](https://boiling-peak-29085.herokuapp.com/)
 
@@ -33,8 +35,7 @@
 - Адаптивная вёрстка
 [Код](https://github.com/SheDeMere/Auto-blog) | [Демо](https://shedemere.github.io/Auto-blog/)
 
-- Каталог Телеграмм каналов на React/Redux (на разработке)
-[Код](https://github.com/SheDeMere/telegram-channels-new) 
+
 
 
 
