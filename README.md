@@ -42,5 +42,3 @@
 
 
 
-click*
-[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/abdulaev.13/)
