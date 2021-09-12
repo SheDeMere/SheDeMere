@@ -15,6 +15,9 @@
 
 
 ### Мои Работы:
+ -Каталог фильмов React/Redux
+ [Код](https://github.com/SheDeMere/movie-app) | [Демо](https://movie-pet-project.herokuapp.com/)
+
  - Новости React/Redux 
 [Код](https://github.com/SheDeMere/News-app) | [Демо](https://eldit-news.herokuapp.com/) 
 
