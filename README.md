@@ -16,6 +16,9 @@
 
 ### Мои Работы:
 
+  - Редактор кода React
+ [Код](https://github.com/SheDeMere/code-editor) | [Демо](https://code-editor-gules.vercel.app/)
+ 
   - Каталог фильмов React/Redux 
  [Код](https://github.com/SheDeMere/movie-app) | [Демо](https://movie-pet-project.herokuapp.com/)
 
