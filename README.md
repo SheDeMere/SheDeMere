@@ -32,7 +32,7 @@
 [Код](https://github.com/SheDeMere/react-chat) | [Демо](https://boiling-peak-29085.herokuapp.com/)
 
 - Приложение погода на React
-[Код](https://github.com/SheDeMere/weather) | [Демо](https://shedemere.github.io/weather/)
+[Код](https://github.com/SheDeMere/weatherApp) | [Демо](https://shedemere.github.io/weatherApp/)
    
 - ТЗ от Авито на React/React-router
 [Код](https://github.com/SheDeMere/avito) | [Демо](https://vast-wildwood-19897.herokuapp.com/)
