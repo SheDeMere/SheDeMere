@@ -15,27 +15,17 @@
 
 
 ### Мои Работы:
-
+  - Заказ пиццы TypeScript/Redux/Redux 
+  [Код](https://github.com/SheDeMere/pizza-v2) | [Демо](https://pizza-v2.vercel.app)
+  
   - Редактор кода React
  [Код](https://github.com/SheDeMere/code-editor) | [Демо](https://code-editor-gules.vercel.app/)
  
   - Каталог фильмов React/Redux 
  [Код](https://github.com/SheDeMere/movie-app) | [Демо](https://movie-pet-project.herokuapp.com/)
 
- - Новости React/Redux 
-[Код](https://github.com/SheDeMere/News-app) | [Демо](https://eldit-news.herokuapp.com/) 
-
- - Каталог Телеграмм каналов на React/Redux 
-[Код](https://github.com/SheDeMere/telegram-channels-new) | [Демо](https://intocode-project-telegram.herokuapp.com/) 
-
 - Десктопный чат на React/Redux
 [Код](https://github.com/SheDeMere/react-chat) | [Демо](https://boiling-peak-29085.herokuapp.com/)
-
-- Приложение погода на React
-[Код](https://github.com/SheDeMere/weatherApp) | [Демо](https://shedemere.github.io/weatherApp/)
-   
-- ТЗ от Авито на React/React-router
-[Код](https://github.com/SheDeMere/avito) | [Демо](https://vast-wildwood-19897.herokuapp.com/)
 
 - Адаптивная вёрстка
 [Код](https://github.com/SheDeMere/Auto-blog) | [Демо](https://shedemere.github.io/Auto-blog/)
