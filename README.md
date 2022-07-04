@@ -15,7 +15,7 @@
 
 
 ### Мои Работы:
-  - Заказ пиццы TypeScript/Redux/Redux 
+  - Заказ пицц TypeScript/Redux/Redux 
   [Код](https://github.com/SheDeMere/pizza-v2) | [Демо](https://pizza-v2.vercel.app)
   
   - Редактор кода React
